@@ -1,11 +1,22 @@
 <div align="center">
 
-  ![github-header-image](https://github.com/user-attachments/assets/5b3b6c36-33c7-4be2-aa48-163c77a297ce)
+  <!-- Encabezado visual con imagen personalizada -->
+  <img src="https://github.com/user-attachments/assets/5b3b6c36-33c7-4be2-aa48-163c77a297ce" alt="github-header-image" width="100%" />
 
-  ![GitHub followers](https://img.shields.io/github/followers/Scarlat2902)
-  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Scarlat2902/Scarlat2902)
-  ![GitHub contributors](https://img.shields.io/github/contributors/Scarlat2902/Scarlat2902)
-  ![GitHub watchers](https://img.shields.io/github/watchers/Scarlat2902/Scarlat2902)
+  <!-- Mensaje de bienvenida -->
+  <h2>¡Hola, soy Scarlat! 🚀</h2>
+  <p><strong>Ingeniera en la nube en formación | Apasionada por la automatización y las soluciones escalables</strong></p>
+
+  <!-- Badges de GitHub -->
+  <p>
+    <img src="https://img.shields.io/github/followers/Scarlat2902?style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/commit-activity/m/Scarlat2902/Scarlat2902" alt="GitHub commit activity" />
+    <img src="https://img.shields.io/github/contributors/Scarlat2902/Scarlat2902" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/watchers/Scarlat2902/Scarlat2902?style=social" alt="GitHub watchers" />
+  </p>
+
+  <!-- Línea divisoria estilizada -->
+  <hr style="border:1px solid #ccc; width:80%;" />
 </div>
 
 # 👩‍💻 Sobre mí
