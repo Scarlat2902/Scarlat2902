@@ -39,6 +39,10 @@ Mi objetivo es formar parte de un equipo donde pueda aportar mi motivación, mis
 
 ---
 
+## 📫 Contacto
+
+- [LinkedIn](www.linkedin.com/in/scarlet-gonzalez-garcia)
+- [GitHub](https://github.com/tu_usuario](https://github.com/Scarlat2902)
 <!--
 **Scarlat2902/Scarlat2902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
