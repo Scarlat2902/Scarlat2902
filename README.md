@@ -8,35 +8,36 @@
   ![GitHub watchers](https://img.shields.io/github/watchers/Scarlat2902/Scarlat2902)
 </div>
 
-## Sobre Mi
+# 👩‍💻 Sobre mí
 
-<p>
-Soy una profesional con una base en Data 
-Analytics y en proceso de especialización en 
-Amazon Web Services (AWS), estoy 
-comenzando mi carrera en la ingeniería en 
-la nube. Mi experiencia previa en hostelería 
-me ha brindado habilidades clave en gestión 
-operativa y atención al cliente, que ahora 
-aplico al diseño de soluciones en la nube. 
-Con entusiasmo por aprender y crecer, 
-estoy comprometida con construir 
-infraestructuras eficientes y seguras, 
-contribuyendo con dedicación y una 
-mentalidad orientada al desarrollo 
-profesional continuo en tecnología..
-  
-</p>
+¡Hola! Soy una profesional en transición hacia el mundo de la **ingeniería en la nube**, con formación sólida en **AWS Cloud**, **DevOps** y **Data Analytics**.
 
-## Tecnologías
+Después de varios años desarrollando habilidades clave como la gestión operativa, el trabajo en equipo y la resolución de problemas en entornos exigentes, he orientado mi carrera hacia la tecnología cloud, impulsada por mi pasión por la innovación y la mejora continua.
 
- <img width="100" alt="Banner Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
- <img width="100" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
- <img width="100" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
- <img width="100" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
- <img width="100" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white">
- <img width="100" alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+Actualmente me estoy especializando en la construcción de infraestructuras escalables y seguras utilizando servicios como **EC2**, **S3**, **Lambda**, **RDS**, **VPC**, y herramientas de automatización como **Jenkins** y **Docker**.
 
+🎓 Certificada como **AWS Certified Cloud Practitioner**  
+📚 En formación continua en **Cloud Computing**, **Linux**, **Python** y **Kubernetes**
+
+Mi objetivo es formar parte de un equipo donde pueda aportar mi motivación, mis conocimientos técnicos en expansión y mis valores de compromiso y aprendizaje constante.
+
+---
+## 🧠 Skills principales
+
+| AWS | Linux | Docker | Kubernetes | Jenkins | Python | Data Analytics |
+|:---:|:-----:|:------:|:----------:|:-------:|:------:|:---------------:|
+| ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) | ![Linux](https://img.icons8.com/color/48/000000/linux.png) | ![Docker](https://img.icons8.com/color/48/000000/docker.png) | ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) | ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Analytics](https://img.icons8.com/color/48/000000/combo-chart.png) |
+
+---
+
+---
+
+## 🚀 Actualmente
+
+- 💻 Formación especializada en **Cloud Computing y DevOps**
+- 🔎 Intereses: **Transformación Digital**, **Innovación Tecnológica**, **Soluciones Escalables**
+
+---
 
 <!--
 **Scarlat2902/Scarlat2902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
