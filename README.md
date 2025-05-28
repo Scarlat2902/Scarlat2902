@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Encabezado visual con imagen personalizada -->
-  <img src="https://github.com/user-attachments/assets/5b3b6c36-33c7-4be2-aa48-163c77a297ce" alt="github-header-image" width="100%" />
+  <img src="https://github.com/user-attachments/assets/5b3b6c36-33c7-4be2-aa48-163c77a297ce" alt="github-header-image" width="80%" />
 
   <!-- Mensaje de bienvenida -->
   <h2>¡Hola, soy Scarlat! 🚀</h2>
