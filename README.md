@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/5b3b6c36-33c7-4be2-aa48-163c77a297ce" alt="github-header-image" width="50%" />
 
   <!-- Mensaje de bienvenida -->
-  <h2>¡Hola, soy Scarlat! 🚀</h2>
+  <h2>¡Hola, soy Scarlet! 🚀</h2>
   <p><strong>Ingeniera en la nube en formación | Apasionada por la automatización y las soluciones escalables</strong></p>
 
   <!-- Badges de GitHub -->
