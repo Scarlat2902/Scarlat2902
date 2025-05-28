@@ -11,21 +11,20 @@
 ## Sobre Mi
 
 <p>
-Soy una profesional con una base en
-Data Analytics y en proceso de
-especialización en Amazon Web Services
-(AWS), estoy comenzando mi carrera en
-la ingeniería en la nube. Mi experiencia
-previa en hostelería me ha brindado
-habilidades clave en gestión operativa y
-atención al cliente, que ahora aplico al
-diseño de soluciones en la nube. Con
-entusiasmo por aprender y crecer, estoy
-comprometido con construir
-infraestructuras eficientes y seguras,
-contribuyendo con dedicación y una
-mentalidad orientada al desarrollo
-profesional continuo en tecnología.
+Soy una profesional con una base en Data 
+Analytics y en proceso de especialización en 
+Amazon Web Services (AWS), estoy 
+comenzando mi carrera en la ingeniería en 
+la nube. Mi experiencia previa en hostelería 
+me ha brindado habilidades clave en gestión 
+operativa y atención al cliente, que ahora 
+aplico al diseño de soluciones en la nube. 
+Con entusiasmo por aprender y crecer, 
+estoy comprometida con construir 
+infraestructuras eficientes y seguras, 
+contribuyendo con dedicación y una 
+mentalidad orientada al desarrollo 
+profesional continuo en tecnología..
   
 </p>
 
